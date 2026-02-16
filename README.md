@@ -1,5 +1,5 @@
 # hotdog_cafe_simulator
-This project is a console based HotDog ordering system built entirely in Python.  
-It demonstrates clean Object-Oriented Programming (OOP) design with Builder, Strategy, Context and Proxy patterns, showing how classes can interact to create flexible, maintainable code.
-#To run -
+This project is a console based HotDog ordering system.  
+It demonstrates clean Object-Oriented Programming design with Builder, Strategy, Context and Proxy patterns, showing how classes can interact to create flexible, maintainable code.
+# To run -
 python3 main.py
